@@ -548,6 +548,10 @@ video {
   text-align: center;
 }
 
+.font-Poppins {
+  font-family: Poppins;
+}
+
 .text-5xl {
   font-size: 3rem;
   line-height: 1;
