@@ -2,7 +2,7 @@
 module.exports = {
   content: ["./src/**/*.{html,js}",
   "./node_modules/flowbite/**/*.js"],
-  darkMode: "class", 
+  darkMode: ['class', '[data-mode="dark"]'],
   theme: {
     extend: {
       fontFamily: {
