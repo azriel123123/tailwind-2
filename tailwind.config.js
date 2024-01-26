@@ -8,6 +8,7 @@ module.exports = {
       fontFamily: {
         'Poppins': ['Poppins']
       },
+      
     },
   },
   plugins: [
